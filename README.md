@@ -1,3 +1,5 @@
+For personal git undestanding use
+
 # Swagger UI Express
 
 Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your app.
